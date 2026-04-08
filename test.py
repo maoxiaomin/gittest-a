@@ -5,3 +5,7 @@ def add(a, b):
 
 result = add(5, 3)
 print(f"The sum of 5 and 3 is: {result}")
+def subtract(a, b):
+    return a - b
+result = subtract(5, 3)
+print(f"The difference of 5 and 3 is: {result}")
